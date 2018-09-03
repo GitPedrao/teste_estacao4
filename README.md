@@ -8,8 +8,8 @@ Antes de começar, é necessario ter algum programa para
 poder emular um servidor local e uma base de dados.
 
 Você pode optar por esses dois programas:
-
 Xampp: https://www.apachefriends.org/pt_br/download.html
+
 WampServer: http://www.wampserver.com/en/#download-wrapper
 
 ## Execução
