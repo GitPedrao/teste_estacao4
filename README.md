@@ -1,6 +1,6 @@
 # teste_estacao4
 
-Sistema demonstrativo de um CRUD(Create,read,update,delete)
+Sistema demonstrativo CRUD(Create,read,update,delete)
 
 ## Instalação
 
